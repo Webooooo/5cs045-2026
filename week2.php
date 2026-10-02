@@ -9,7 +9,7 @@
   <body>
 	<div class="container ">
 	<?php include("nav.php"); ?>
-  	<h1>Student Marking Sheet</h1>
+  	<h1>Student Marking Script</h1>
 		<div class= "row row-cols-2 row-cols-md-4 row-cols-xl-12 g-4">
 			<?php  for ($x = 0; $x <= 12; $x++) { ?> 
 			<div class="col">
